@@ -1,4 +1,4 @@
-var playlist = {hello: world};
+var playlist = {"hello": "world"};
 
 function updatePlaylist(playlist, name, title) {
   playlist[name] = title;
